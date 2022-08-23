@@ -1,0 +1,102 @@
+symbol,name,src
+AAPL,Apple Inc.,8
+ABBV,AbbVie Inc.,6
+ABT,Abbott Laboratories,6
+ACN,Accenture,7
+ADBE,Adobe Inc.,8
+AIG,American International Group,7
+ALL,Allstate,7
+AMGN,Amgen Inc.,6
+AMT,American Tower,9
+AMZN,Amazon.com,4
+AXP,American Express,7
+BA,Boeing Co.,3
+BAC,Bank of America Corp,7
+BIIB,Biogen,6
+BK,The Bank of New York Mellon,7
+BKNG,Booking Holdings,4
+BLK,BlackRock Inc,7
+BMY,Bristol-Myers Squibb,4
+BRK.B,Berkshire Hathaway,7
+C,Citigroup Inc,7
+CAT,Caterpillar Inc.,2
+CHTR,Charter Communications,9
+CL,Colgate-Palmolive,4
+CMCSA,Comcast Corp.,9
+COF,Capital One Financial Corp.,7
+COP,ConocoPhillips,1
+COST,Costco Wholesale Corp.,5
+CRM,salesforce.com,7
+CSCO,Cisco Systems,9
+CVS,CVS Health,6
+CVX,Chevron Corporation,3
+DD,DuPont de Nemours Inc,2
+DHR,Danaher Corporation,6
+DIS,The Walt Disney Company,9
+DOW,Dow Inc.,2
+DUK,Duke Energy,1
+EMR,Emerson Electric Co.,10
+EXC,Exelon,10
+F,Ford Motor Company,3
+FB,Facebook Inc.,8
+FDX,FedEx,3
+GD,General Dynamics,3
+GE,General Electric,3
+GILD,Gilead Sciences,6
+GM,General Motors,3
+GOOG,Alphabet Inc. (Class C),8
+GOOGL,Alphabet Inc. (Class A),8
+GS,Goldman Sachs,7
+HD,The Home Depot,5
+HON,Honeywell,3
+IBM,International Business Machines,8
+INTC,Intel Corp.,8
+JNJ,Johnson & Johnson,6
+JPM,JPMorgan Chase & Co.,7
+KHC,Kraft Heinz,2
+KMI,Kinder Morgan,1
+KO,The Coca-Cola Company,4
+LLY,Eli Lilly and Company,6
+LMT,Lockheed Martin,3
+LOW,Lowe's,5
+MA,MasterCard Inc,7
+MCD,McDonald's Corp,5
+MDLZ,Mondelēz International,6
+MDT,Medtronic plc,5
+MET,MetLife Inc.,7
+MMM,3M Company,3
+MO,Altria Group,5
+MRK,Merck & Co.,6
+MS,Morgan Stanley,7
+MSFT,Microsoft,8
+NEE,NextEra Energy,1
+NFLX,Netflix,8
+NKE,Nike Inc.,5
+NVDA,Nvidia Corporation,8
+ORCL,Oracle Corporation,8
+PEP,PepsiCo,4
+PFE,Pfizer Inc,6
+PG,Procter & Gamble,4
+PM,Philip Morris International,5
+PYPL,PayPal,7
+QCOM,Qualcomm,8
+RTX,Raytheon Technologies,8
+SBUX,Starbucks Corp.,5
+SLB,Schlumberger,1
+SO,Southern Company,10
+SPG,Simon Property Group,11
+T,AT&T Inc,9
+TGT,Target Corporation,4
+TMO,Thermo Fisher Scientific,6
+TSLA,Tesla Inc.,4
+TXN,Texas Instruments,9
+UNH,UnitedHealth Group,6
+UNP,Union Pacific Corporation,3
+UPS,United Parcel Service,3
+USB,U.S. Bancorp,7
+V,Visa Inc.,7
+VZ,Verizon Communications,9
+WBA,Walgreens Boots Alliance,6
+WFC,Wells Fargo,7
+WMT,Walmartk,4
+XOM,Exxon Mobil Corp.,1
